@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# Data, checkpoints and outputs
+cs541_work/
+data/
+ood-test-CS541/
+*.pt
+*.pth
+*.ckpt
+*.npy
+submission_ood.csv
+
+# OS
+.DS_Store
