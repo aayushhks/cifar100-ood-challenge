@@ -1,6 +1,6 @@
 # CIFAR-100 Out-of-Distribution Challenge
 
-My solution to a [Kaggle class challenge](https://www.kaggle.com/competitions/cs-541-challenge-spring-2026/leaderboard) (Spring 2026): train image classifiers on CIFAR-100, then predict labels for an out-of-distribution (OOD) test set of corrupted images. The test set covers 20 distortion types at 5 severity levels, 10,000 images each, for 1,000,000 predictions in total.
+My solution to a [Kaggle class challenge](https://www.kaggle.com/competitions/cs-541-challenge-spring-2026/leaderboard) (Rank 5 - Aayush Kumar) (Spring 2026): train image classifiers on CIFAR-100, then predict labels for an out-of-distribution (OOD) test set of corrupted images. The test set covers 20 distortion types at 5 severity levels, 10,000 images each, for 1,000,000 predictions in total.
 
 ## Results
 
